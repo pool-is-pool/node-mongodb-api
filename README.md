@@ -5,3 +5,5 @@ task manager
 simple api using node and mongodb
 
 using mongoose extensively
+
+adding authentication
