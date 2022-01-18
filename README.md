@@ -1,6 +1,4 @@
-# node-mongodb-api
-
-task manager
+# node-mongodb-api  task manager
 
 simple api using node and mongodb
 
